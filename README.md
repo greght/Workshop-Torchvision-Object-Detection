@@ -16,4 +16,4 @@ https://docs.google.com/presentation/d/1T7A5ZkAPFFKAlhHszNNvWN5FEJqMmpCIjtLccccT
 
 - Complete notebook:
 
-
+https://colab.research.google.com/github/greght/Workshop-Torchvision-Object-Detection/blob/main/torchvision_object_detection.ipynb
