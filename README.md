@@ -1,6 +1,8 @@
 # Workshop-Torchvision-Object-Detection
 
-This is a CSCAR workshop introducing deep learning object detection models at a high level and providing a hands-on example training an object detection model using PyTorch's torchvision library. (The torchvision example is based on torchvision's instance segmentation tutorial available here:  https://colab.research.google.com/github/pytorch/vision/blob/temp-tutorial/tutorials/torchvision_finetuning_instance_segmentation.ipynb 
+This is a CSCAR workshop introducing deep learning object detection models at a high level and providing a hands-on example training an object detection model using PyTorch's torchvision library. (The torchvision example is based on torchvision's instance segmentation tutorial available here: 
+
+https://colab.research.google.com/github/pytorch/vision/blob/temp-tutorial/tutorials/torchvision_finetuning_instance_segmentation.ipynb 
 
 ### Google slides link:
 
