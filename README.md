@@ -12,7 +12,7 @@ https://docs.google.com/presentation/d/1T7A5ZkAPFFKAlhHszNNvWN5FEJqMmpCIjtLccccT
 
 - Fill-in-the-blank notebook:
 
-
+  https://colab.research.google.com/github/greght/Workshop-Torchvision-Object-Detection/blob/main/torchvision_object_detection_fill_in_the_blank.ipynb
 
 - Complete notebook:
 
